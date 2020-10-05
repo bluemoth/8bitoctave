@@ -55,8 +55,8 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "/img/main/piano.jpeg"
-      shape               = "circle"
+      src                 = ""
+      shape               = ""
       width               = ""
       alt                 = ""
 
