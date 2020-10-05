@@ -48,7 +48,7 @@ disableLanguages        = []
 
   [params.intro]
     header                = "8bitoctave"
-    paragraph             = "Electrical & software development "
+    paragraph             = "Technical Blog by Jacob Case "
     rssIntro              = false
     socialIntro           = true
     hideWhenSingleColumn  = false
