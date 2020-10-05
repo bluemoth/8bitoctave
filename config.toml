@@ -48,7 +48,7 @@ disableLanguages        = []
 
   [params.intro]
     header                = "8bitoctave"
-    paragraph             = "Technical Blog by Jacob Case "
+    paragraph             = "Technical Blog by Jacob Case"
     rssIntro              = false
     socialIntro           = true
     hideWhenSingleColumn  = false
@@ -61,7 +61,7 @@ disableLanguages        = []
       alt                 = ""
 
   [params.sidebar]
-    about               = "Technical blog related to electrical engineering and software development."
+    about               = ""
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
