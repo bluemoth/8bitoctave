@@ -48,7 +48,7 @@ disableLanguages        = []
 
   [params.intro]
     header                = "8bitoctave"
-    paragraph             = ""
+    paragraph             = "Electrical & software development "
     rssIntro              = false
     socialIntro           = true
     hideWhenSingleColumn  = false
@@ -106,18 +106,11 @@ disableLanguages        = []
     weight            = 2
 
   [[menu.main]]
-    name              = "Categories"
-    identifier        = "categories"
-    url               = "/categories/"
-    pre               = "<i class='fas fa-sitemap'></i>"
-    weight            = 5
-
-  [[menu.main]]
     name              = "Contact"
     identifier        = "contact"
     url               = "/contact/"
     pre               = "<i class='far fa-envelope'></i>"
-    weight            = 6
+    weight            = 4
 
 [Languages]
 
