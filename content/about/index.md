@@ -1,25 +1,39 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-author = "Hugo Authors"
-date = "2019-02-28"
+description = ""
+author = "Jacob Case"
+date = "2020-10-04"
 layout = "about"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## Who am I?
 
-Hugo makes use of a variety of open source projects including:
+<img src="/img/main/whoami.png">
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I'm definitely not Derek Zoolander... unfortunately. 
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+My name is Jacob and I'm electrical engineer and software developer. 
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+<img src="/img/main/profile.jpg" style="width:200px;height:200px;">
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+8BitOctave is a blog of my interests and projects related to electrical engineering, software development, music and anything else I feel the government should know about me. 
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+I currently live in southern California and work within the medical device industry.
+
+## History 
+
+I'm originally from New Mexico, where I grew up playing a lot of sports and gorging myself on christmas style burritos.
+
+<img src="/img/main/burrito.jpg">
+
+Through highschool I played basketball and also did track and field. By the end of highschool I was fortunate enough to have landed a scholarship to play basketball at Colorado School of Mines where I pursued electrical engineering. 
+
+<img src="/img/main/hoops.jpg" style="width: 400px; height:600px;">
+
+As I made my way through college I found an interest in embedded systems. The idea of being able to program a board or controller and have it respond real time to you has always fascinated me. With that interest I found myself working at Seagate Technologies working on printed circuit board designs for hard disc drives.
+
+<img src="/img/main/pexels-photo-2644597.jpeg">
+
+
+
+
