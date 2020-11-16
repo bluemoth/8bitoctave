@@ -49,7 +49,7 @@ My brain loves to tell me the dance moves in my head are great. In reality, when
 ##### Always allow an expression to take place, even though you may never use it
 To me, coming up with choreography is the same as improvising on the piano. Everyone oohhs and aahhs when it's polished and at rhythm but the truth is it takes a lot of time "playing" to get there. The process of "playing" should be one of openness and non-judgement. Even deeper, "playing" should be an exploration of your emotional state and being. 
 
-If there is a dance move or physical motion needing expression, do it. Only after it's been voiced should you decide on whether to take it or leave it. Even more important is listning to your dance partner. If they have an idea, provide them a space to explore it even if they don't feel sold on it themselves. At least this way you have all of the information on the table to make a call.
+If there is a dance move or physical motion needing expression, do it. Only after it's been voiced should you decide on whether to take it or leave it. Even more important is listening to your dance partner. If they have an idea, provide them a space to explore it even if they don't feel sold on it themselves. At least this way you have all of the information on the table to make a call.
 
 ##### Statistics & Tracking
 
