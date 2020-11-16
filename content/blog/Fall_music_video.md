@@ -53,7 +53,7 @@ If there is a dance move or physical motion needing expression, do it. Only afte
 
 ##### Statistics & Tracking
 
-During this project I wanted to monitor a few things: film the output of each practice session for reflection and track time spent in the creative process.
+During this project I wanted to do a few things: film the output of each practice session for reflection and track time spent in the creative process.
 
 <b> Overall Project Dates: Dec. 18th - January 19th 2020 </b>
 
