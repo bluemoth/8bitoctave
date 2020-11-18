@@ -31,7 +31,7 @@ disableLanguages        = []
   hideEmptyStats        = false
 
   [params.meta]
-    description         = "Portfolio and technical blog site"
+    description         = "Portfolio site"
     author              = "Jacob Case"
     favicon             = false
     svg                 = true
@@ -48,7 +48,7 @@ disableLanguages        = []
 
   [params.intro]
     header                = "8bitoctave"
-    paragraph             = "Technical Blog by Jacob Case"
+    paragraph             = "Personal Portfolio"
     rssIntro              = false
     socialIntro           = true
     hideWhenSingleColumn  = false
@@ -99,7 +99,7 @@ disableLanguages        = []
     weight            = 3
 
   [[menu.main]]
-    name              = "Blog"
+    name              = "Posts"
     identifier        = "blog"
     url               = "/blog/"
     pre               = "<i class='far fa-newspaper'></i>"
@@ -312,7 +312,7 @@ disableLanguages        = []
 
 [social]
   # Coding Communities
-  github                = ""
+  github                = "bluemoth"
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
@@ -327,7 +327,7 @@ disableLanguages        = []
   wordpress             = ""
   medium                = ""
   # Professional/Business Oriented Communities
-  linkedin              = ""
+  linkedin              = "in/jacobcaseengineer"
   linkedin_company      = ""
   foursquare            = ""
   xing                  = ""
@@ -337,7 +337,7 @@ disableLanguages        = []
   googleplus            = ""
   reddit                = ""
   quora                 = ""
-  youtube               = ""
+  youtube               = "channel/UCCjPBQolsnjJFNMEb2hbd3g"
   vimeo                 = ""
   whatsapp              = "" # WhatsApp Number
     # WeChat and QQ need testing.
