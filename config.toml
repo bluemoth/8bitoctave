@@ -105,12 +105,6 @@ disableLanguages        = []
     pre               = "<i class='far fa-newspaper'></i>"
     weight            = 2
 
-  [[menu.main]]
-    name              = "Contact"
-    identifier        = "contact"
-    url               = "/contact/"
-    pre               = "<i class='far fa-envelope'></i>"
-    weight            = 4
 
 [Languages]
 
