@@ -3,8 +3,8 @@ title = "Motion Graphics Course"
 description = "School of Motion - After Effects Class Projects"
 author = "Jacob"
 date = "2019-11-15"
-tags = ["MotionGraphics"]
-categories = [""]
+tags = [""]
+categories = ["MotionGraphics"]
 [[images]]
   src = "/img/motiongraphics/aftereffects.jpg"
   alt = ""

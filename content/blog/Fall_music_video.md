@@ -3,7 +3,8 @@ title = "All Systems Know - The Fall (Official Music Video)"
 description = "First Choreography/Music Video Project "
 author = "Jacob"
 date = "2020-06-05"
-tags = ["Dance"]
+tags = [""]
+categories = ["Dance"]
 [[images]]
   src = "/img/ASK_music_video/band.jpg"
   alt = ""
