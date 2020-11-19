@@ -6,17 +6,11 @@ date = "2020-10-04"
 layout = "about"
 +++
 
-## Who am I?
-
-<img src="/img/main/whoami.png">
-
-I'm definitely not Derek Zoolander... unfortunately. 
-
-My name is Jacob and I'm electrical engineer and software developer. 
+My name is Jacob Case and I'm electrical engineer and software developer. 
 
 <img src="/img/main/profile.jpg" style="width:200px;height:200px;">
 
-8BitOctave is a blog of my interests and projects related to electrical engineering, software development, music and anything else I feel the government should know about me. 
+8BitOctave is a blog of my interests and projects related to electrical engineering, software development, music, dance, and motion graphics.
 
 I currently live in southern California and work within the medical device industry.
 

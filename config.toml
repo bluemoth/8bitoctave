@@ -48,7 +48,7 @@ disableLanguages        = []
 
   [params.intro]
     header                = "8bitoctave"
-    paragraph             = "Personal Portfolio"
+    paragraph             = "jacob@8bitoctave.com"
     rssIntro              = false
     socialIntro           = true
     hideWhenSingleColumn  = false
@@ -99,7 +99,7 @@ disableLanguages        = []
     weight            = 3
 
   [[menu.main]]
-    name              = "Posts"
+    name              = "Blog"
     identifier        = "blog"
     url               = "/blog/"
     pre               = "<i class='far fa-newspaper'></i>"
