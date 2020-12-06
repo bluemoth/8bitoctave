@@ -18,9 +18,9 @@ categories = ["MotionGraphics"]
   stretch = "horizontal"
 +++
 
-I've always thought motion graphics and animation were cool. I never knew too much about the production however until just a few years ago. I figured there was software out there, but never seen or heard of it until I stumbled on <a href="https://www.youtube.com/user/videocopilot">Video Copilot's</a> youtube channel.
+I've always thought motion graphics and animation were cool. I never knew too much about the production however until just a few years ago. I figured there was software out there, but never seen or heard of it until I stumbled on <a href="https://www.youtube.com/user/videocopilot" target="_blank">Video Copilot's</a> youtube channel.
 
-Long story short I got hooked by the idea of making 2D animation, storytelling and how that can be tied into engineering. I ended up taking a class through an <a href="https://www.schoolofmotion.com/">School of Motion</a> called <i> After Effects Kickstart </i>. 
+Long story short I got hooked by the idea of making 2D animation, storytelling and how that can be tied into engineering. I ended up taking a class through an <a href="https://www.schoolofmotion.com/" target="_blank">School of Motion</a> called <i> After Effects Kickstart </i>. 
 
 My short review is that the class was well worth it. It was very intensive, usually 2-3 hours of work a night. Instructional videos were long and detailed, and peer feedback was great. One of the biggest upsides to doing a class like this through School of Motion is the networking opportunities. A lot of people are there to learn and grow and enter the industry. 
 
