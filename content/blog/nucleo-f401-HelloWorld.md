@@ -47,7 +47,7 @@ Reference this link to understand the <a href="https://developer.arm.com/documen
 
 <img style='border:1px solid' src="/img/NucleoF4/HelloWorld/demcr.JPG">
 
-In order to send characters from your printf function, you need to set bit 24 of DEMCR register within you. Doing this will enable ITM or <i>instrumentation trace macrocell</i>. See below code snippet that should be added at the top of <i>syscalls.c</i>. For more understanding of ITM, reference this link Reference this link to understand the <a href="https://developer.arm.com/documentation/ddi0337/e/system-debug/itm/summary-and-description-of-the-itm-registers" target="_blank">here.</a>.  
+In order to send characters from your printf function, you need to set bit 24 of DEMCR register to enable TRCENA. Doing this will enable ITM or <i>instrumentation trace macrocell</i>. See below code snippet that should be added at the top of <i>syscalls.c</i>. For more understanding of ITM, reference this link Reference this link to understand the <a href="https://developer.arm.com/documentation/ddi0337/e/system-debug/itm/summary-and-description-of-the-itm-registers" target="_blank">here.</a>.  
 
     //Debug Exception and Monitor Control Register base address
     #define DEMCR        			*((volatile uint32_t*) 0xE000EDFCU )
