@@ -93,7 +93,7 @@ So now, go back to main and setup a debug session with the following paramters.
 
 <img style='border:1px solid' src="/img/NucleoF4/HelloWorld/debugger.JPG">
 
-Now run the debugger & go to <i>Window</i> and add view <i>SWV ITM Data Console</i>. This will allow you to see what single wire events take place. Within this new console window, click the "tools" icon to open port settings, and enable Port0. 
+Now run the debugger & go to <i>Window</i> and add view <i>SWV ITM Data Console</i>. This will allow you to see what data sent over single-wire interface. Within this new console window, click the "tools" icon to open port settings, and enable Port0. 
 
 <img style='border:1px solid' src="/img/NucleoF4/HelloWorld/tools.JPG">
 
